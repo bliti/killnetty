@@ -44,6 +44,6 @@ I then added the scripts directory to my path by running:
 
 That way any future scripts can be saved and called from there.
 
-Why not put it in my /bin directory?
+# Why not put it in my /bin directory?
 
 I was feeling lazy.
